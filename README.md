@@ -7,6 +7,7 @@
 [2]  Miguel- ́Angel  G ́omez,  Carlos  Lago,  Mar ́ıa-Teresa  G ́omez,  and  PhilipFurley.   Analysis  of  elite  soccer  players’  performance  before  and  aftersigning a new contract.PLoS one, 14(1):e0211058, 2019.
 
 [3]  Markus Brandt and Ulf Brefeld.  Graph-based approaches for analyzingteam interaction on the example of soccer.  InMLSA@ PKDD/ECML,pages 10–17, 2015.
+
 [4]  Gunjan  Kumar.   Machine  learning  for  soccer  analytics.University  ofLeuven, 2013.
 
 [5]  Paolo  Cintia,  Salvatore  Rinzivillo,  and  Luca  Pappalardo.   A  network-based approach to evaluate the performance of football teams.  InMa-chine  learning  and  data  mining  for  sports  analytics  workshop,  Porto,Portugal, 2015.
@@ -21,3 +22,14 @@
 [10]  Luca  Pappalardo,  Paolo  Cintia,  Alessio  Rossi,  Emanuele  Massucco,Paolo Ferragina,  Dino Pedreschi,  and Fosca Giannotti.  A public dataset of spatio-temporal match events in soccer competitions.Scientificdata, 6(1):1–15, 2019.
 
 [11]  Olav Nørstebø, Vegard Rødseth Bjertnes, and Eirik Vabo. Valuing indi-vidual player involvements in norwegian association football.  Master’sthesis, NTNU, 2016.
+
+#### Link to the original dataset:
+
+The data sets are released under the CC BY 4.0 License and are publicly available on figshare21.
+
+Pappalardo, Luca; Massucco, Emanuele (2019): Soccer match event dataset. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4415000 
+
+https://doi.org/10.6084/m9.figshare.c.4415000
+
+
+
