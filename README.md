@@ -1,6 +1,8 @@
 # Feature Extraction and Prediction Models for Context-Aware and Adaptive Soccer Analytics
 
-Original Contributors: Jordan Makins, Dr. Sajib Mistry, Aneesh Krishna, PhD.
+#### Original Contributors: 
+
+Jordan Makins, Dr. Sajib Mistry, Aneesh Krishna, PhD.
 
 #### References:
 
@@ -31,7 +33,7 @@ The data sets are released under the CC BY 4.0 License and are publicly availabl
 
 Pappalardo, Luca; Massucco, Emanuele (2019): Soccer match event dataset. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4415000 
 
-Contact:
+#### Contact:
 
 jordanmakins@outlook.com
 
