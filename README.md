@@ -1,5 +1,7 @@
 # Feature Extraction and Prediction Models for Context-Aware and Adaptive Soccer Analytics
 
+Original Contributors: Jordan Makins, Dr. Sajib Mistry, Aneesh Krishna, PhD.
+
 #### References:
 
 [1]  Ruben Vroonen, Tom Decroos, Jan Van Haaren, and Jesse Davis.  Pre-dicting  the  potential  of  professional  soccer  players.   InProceedings  ofthe  4th  Workshop  on  Machine  Learning  and  Data  Mining  for  SportsAnalytics, volume 1971, pages 1–10. Springer, 2017. 
@@ -29,5 +31,7 @@ The data sets are released under the CC BY 4.0 License and are publicly availabl
 
 Pappalardo, Luca; Massucco, Emanuele (2019): Soccer match event dataset. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4415000 
 
+Contact:
 
+jordanmakins@outlook.com
 
