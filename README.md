@@ -34,6 +34,6 @@ The data sets are released under the CC BY 4.0 License and are publicly availabl
 Pappalardo, Luca; Massucco, Emanuele (2019): Soccer match event dataset. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4415000 
 
 #### Contact:
-
-jordanmakins@outlook.com
+Jordan Makins
+<firstNamelastName>@outlook.com
 
