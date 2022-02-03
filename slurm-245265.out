@@ -1,0 +1,41 @@
+FATAL:   Image file already exists: "tensorflow-notebook_latest.sif" - will not overwrite
+*****************************************************
+Setup - from your laptop do:
+ssh -N -f -L 8888:t014:8888 jmakins1@topaz.pawsey.org.au
+*****
+The launch directory is: /scratch/interns2021037/jmakins1/jupyter-dir
+*****************************************************
+
+*****************************************************
+Terminate - from your laptop do:
+kill $( ps x | grep 'ssh.*-L *8888:t014:8888' | awk '{print $1}' )
+*****************************************************
+
+[W 2022-02-03 15:45:06.579 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 15:45:06.580 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 15:45:06.580 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 15:45:06.580 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 15:45:06.580 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-03 15:45:06.587 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.9/site-packages/jupyterlab
+[I 2022-02-03 15:45:06.587 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 15:45:06.591 NotebookApp] Serving notebooks from local directory: /scratch/interns2021037/jmakins1/jupyter-dir
+[I 15:45:06.591 NotebookApp] Jupyter Notebook 6.4.6 is running at:
+[I 15:45:06.591 NotebookApp] http://t014:8888/?token=c2aa9e93dd605cd838289ec9591c71142c7e8e43734f7ece
+[I 15:45:06.592 NotebookApp]  or http://127.0.0.1:8888/?token=c2aa9e93dd605cd838289ec9591c71142c7e8e43734f7ece
+[I 15:45:06.592 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:45:06.598 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/jmakins1/.local/share/jupyter/runtime/nbserver-13-open.html
+    Or copy and paste one of these URLs:
+        http://t014:8888/?token=c2aa9e93dd605cd838289ec9591c71142c7e8e43734f7ece
+     or http://127.0.0.1:8888/?token=c2aa9e93dd605cd838289ec9591c71142c7e8e43734f7ece
+[I 16:08:03.688 NotebookApp] 302 GET /?token=c2aa9e93dd605cd838289ec9591c71142c7e8e43734f7ece (146.118.37.75) 1.220000ms
+[W 16:08:39.430 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:08:39.644 NotebookApp] Kernel started: 656168ec-273f-46d7-820f-3e60f14dd9c0, name: python3
+[I 16:08:50.765 NotebookApp] Starting buffering for 656168ec-273f-46d7-820f-3e60f14dd9c0:6733214becd94e5cb9d36afe597b61cd
+[I 16:09:39.220 NotebookApp] 302 GET /?token=c2aa9e93dd605cd838289ec9591c71142c7e8e43734f7ece (146.118.37.75) 0.960000ms
+[I 16:09:45.497 NotebookApp] Kernel shutdown: 656168ec-273f-46d7-820f-3e60f14dd9c0
+[W 16:09:52.525 NotebookApp] 400 GET /api/contents/tensorflow-notebook_latest.sif?type=file&format=text&_=1643875787475 (146.118.37.75): /scratch/interns2021037/jmakins1/jupyter-dir/tensorflow-notebook_latest.sif is not UTF-8 encoded
+[W 16:09:52.526 NotebookApp] /scratch/interns2021037/jmakins1/jupyter-dir/tensorflow-notebook_latest.sif is not UTF-8 encoded
+[W 16:09:52.526 NotebookApp] 400 GET /api/contents/tensorflow-notebook_latest.sif?type=file&format=text&_=1643875787475 (146.118.37.75) 4908.720000ms referer=http://127.0.0.1:8888/edit/tensorflow-notebook_latest.sif

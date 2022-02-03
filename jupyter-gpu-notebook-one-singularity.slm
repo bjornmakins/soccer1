@@ -1,10 +1,10 @@
 #!/bin/bash -l
 
-#SBATCH --account=interns202010
+#SBATCH --account=interns2021037
 #SBATCH --partition=gpuq
 #SBATCH --gres=gpu:1
 #SBATCH --ntasks=1
-#SBATCH --time=24:00:00
+#SBATCH --time=01:30:00
 #SBATCH --job-name=jupyter_notebook
 #SBATCH --export=NONE
  
